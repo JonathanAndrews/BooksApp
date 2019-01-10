@@ -1,6 +1,6 @@
 env:
   global:
-    - CC_TEST_REPORTER_ID= <put token in>
+    - CC_TEST_REPORTER_ID=8e75a3065955ffac8b6bf3c5c1b8359c4b01b1604a370c36320273f4ad6fd061
 language: ruby
 rvm:
   - 2.5.1
