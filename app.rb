@@ -3,6 +3,6 @@
 require 'sinatra/base'
 
 # These are the routes for simple poker application
-class AppName < Sinatra::Base
+class GoogleBooksApp < Sinatra::Base
 
 end
