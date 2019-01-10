@@ -1,4 +1,10 @@
-Badges
+[![Build Status](https://travis-ci.com/JonathanAndrews/GoogleBooksApp.svg?branch=master)](https://travis-ci.com/JonathanAndrews/GoogleBooksApp)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/aa40fab363db336432d7/maintainability)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksApp/maintainability)
+
+[![Test Coverage](https://api.codeclimate.com/v1/badges/aa40fab363db336432d7/test_coverage)](https://codeclimate.com/github/JonathanAndrews/GoogleBooksApp/test_coverage)
+
+
 
 # World's most simple Poker
 
